@@ -8,6 +8,32 @@ h1{
     font-variant: small-caps;
     /*font-size-adjust: 0.58  -only relevant in firefox.;*/
     color: cornflowerblue;text-align: center;
-
+    text-decoration:underline;
 
 }
+
+/*How to vertical align */
+img.a {
+    vertical-align: baseline;
+    text-decoration: line-through;
+  }
+  
+  img.b {
+    vertical-align: text-top;
+  }
+  
+  img.c {
+    vertical-align: text-bottom;
+  }
+  
+  img.d {
+    vertical-align: sub;
+  }
+  
+  img.e {
+    vertical-align: super;
+  }
+
+  a{
+      text-decoration:none
+  }
