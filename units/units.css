@@ -1,0 +1,14 @@
+.rem{
+    /*relative to the size of the browser base font size i.e in 'html' css tags*/
+    font-size:2rem;
+}
+
+.em{
+    /*a multiple of the font size of element*/
+    font-size:2em;
+}
+
+.px{
+    /*1/96 of an inch = 1 pixel*/
+    font-size:16px; 
+}

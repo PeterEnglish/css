@@ -1,0 +1,12 @@
+h1{
+    font-size: 36px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing:-0.17rem;
+    font-weight:900;
+    line-height: 1rem;
+    font-style: italic;
+    font-variant: small-caps;
+    /*font-size-adjust: 0.58  -only relevant in firefox.;*/
+    color: cornflowerblue;
+
+}
