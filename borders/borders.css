@@ -1,0 +1,12 @@
+.border1{
+    background-color:rgb(228, 238, 255);
+    width: 500px;
+    height:500px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 18px 36px -6px, rgba(0, 0, 0, 0.3) 0px 9px 21px -9px;
+}
+
+.border2{
+    
+}
