@@ -7,6 +7,7 @@ h1{
     font-style: italic;
     font-variant: small-caps;
     /*font-size-adjust: 0.58  -only relevant in firefox.;*/
-    color: cornflowerblue;
+    color: cornflowerblue;text-align: center;
+
 
 }
