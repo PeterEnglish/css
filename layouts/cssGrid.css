@@ -1,0 +1,20 @@
+body {
+    margin: 40px;
+  }
+  
+  .wrapper {
+    display: grid; /*Creates a grid div object*/
+    grid-template-columns: 200px 200px 400px; /*WIdth of columns*/
+    grid-template-rows: 400px 300px; /*Width of rows*/
+    grid-gap: 10px; /*width of gap between all rows and columns*/
+    background-color: #fff;
+    color: #444;
+  }
+  
+  .box {
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+  }
